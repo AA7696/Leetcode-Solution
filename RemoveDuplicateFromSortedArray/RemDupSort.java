@@ -1,4 +1,7 @@
+// Question 2
+
 import java.util.Arrays;
+
 
 public class RemDupSort {
     public int[] removeDuplicates(int[] num) {
@@ -26,3 +29,20 @@ public class RemDupSort {
     }
 
 }
+
+
+// Use Two pointer approach  Improve the code 
+
+    // public int removeDuplicates(int[] num) {
+    //          int count = 0;
+    //          num[count] = num[0];
+    //     for (int i = 0; i< num.length; i++){
+    //             if (num[count] != num[i]){
+    //                 count++;
+    //                 num[count] = num[i];
+    //         }
+    //     }
+        
+    //     return count+1;
+
+    // }

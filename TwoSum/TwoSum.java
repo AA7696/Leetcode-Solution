@@ -1,4 +1,9 @@
+// Question 1
+
 import java.util.Arrays;
+
+
+// Two pointer approach  Improve the code
 
 public class TwoSum {
     public int[] twoSum(int[] num, int target) {

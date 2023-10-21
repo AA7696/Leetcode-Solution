@@ -1,3 +1,7 @@
+// Question 3
+
+// Two pointer approach  Do it Again
+
 public class RemoveElement{
     public int removeElement(int[] nums, int val) {
 
