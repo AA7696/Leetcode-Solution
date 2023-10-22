@@ -5,6 +5,8 @@ My solutions for leetcode problems
 
 ##  Algorithims ##
 
-1. Two Pointer Approach - o(n)
+1. Two Pointer Approach - o(n) // Learn About it
+
+
 
 
