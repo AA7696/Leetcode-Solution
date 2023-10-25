@@ -1,4 +1,3 @@
-// Question 3
 
 // Two pointer approach  Do it Again
 
